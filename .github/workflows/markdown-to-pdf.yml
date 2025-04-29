@@ -1,0 +1,57 @@
+name: Markdown to PDF
+
+on:
+  push:
+    branches:
+      - main # or your main branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Pandoc
+        uses: docker://pandoc/latex:2.21
+
+      - name: Find all Markdown files
+        id: find_markdown
+        run: |
+          find . -name "*.md" -print0 | tr '\0' '\n' > markdown_files.txt
+          echo "::set-output name=files::$(cat markdown_files.txt)"
+
+      - name: Convert Markdown to PDF
+        run: |
+          while IFS= read -r file; do
+            pandoc "$file" -o "${file%.md}.pdf"
+          done < markdown_files.txt
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by GitHub Actions
+        with:
+          tag_name: ${{ steps.date.outputs.date }}
+          release_name: ${{ steps.date.outputs.date }}
+          body: |
+            Release generated from Markdown files.
+          draft: false
+          prerelease: false
+      - name: Upload PDFs to Release
+        run: |
+            for pdf_file in $(find . -name "*.pdf"); do
+            echo "Uploading $pdf_file"
+            curl \
+            -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Content-Type: application/pdf" \
+            --data-binary @"$pdf_file" \
+            "${{ steps.create_release.outputs.upload_url }}?name=$(basename $pdf_file)&label=$(basename $pdf_file)"
+            done
