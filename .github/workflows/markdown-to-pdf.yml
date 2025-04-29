@@ -37,3 +37,23 @@ jobs:
         with:
           name: output
           path: output
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+            tag_name: release-${{ steps.date.outputs.date }}
+            release_name: Release ${{ steps.date.outputs.date }}
+            draft: false
+            prerelease: false
+
+      - name: Upload PDF Files to Release
+        run: |
+            for pdf in output/*.pdf; do
+            filename=$(basename "$pdf")
+            gh release upload release-${{ steps.date.outputs.date }} "$pdf" --clobber
+            done
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
