@@ -20,7 +20,7 @@ Steam er en åben platform hvor profiler er offentlige som udgangspunkt. Det bet
 
 Det ses ofte at man får mange venneanmodninger, og nogle der gerne vil chatte med en hvis robotter/bots og lignende kan se at du har skins. Det er vigtigt at være opmærksom på, at disse personer ofte er svindlere, der forsøger at narre dig til at give dem dine skins.
 
-Hvis man først har overført sine skins til en anden, så får man dem ikke tilbage. Også selvom man har været hacket eller lignende. Det er derfor vigtigt hvis man har skins for mange penge, at man sørger for at have Steam-guard aktiveret på sin telefon.
+Hvis man først har overført sine skins til en anden, så får man dem ikke tilbage. Også selvom man har været hacket eller lignende. Det er derfor vigtigt hvis man har skins for mange penge, at man sørger for at have Steam-guard aktiveret på sin telefon. For så skal man godkende overførelsen af skinsne til en anden på telefonen, lidt ligesom man kender det fra MitID.
 
 Der findes mange former for svindel, hvor du kan miste dine skins. Det kan være ved at du bliver bedt om at give dit login og password, eller ved at du bliver bedt om at give din Steam Guard-kode. Det er vigtigt at være opmærksom på, at Steam aldrig vil bede dig om dit login og password, eller din Steam Guard-kode. Hvis du modtager en besked fra Steam, der beder om dette, så er det en svindler.
 
