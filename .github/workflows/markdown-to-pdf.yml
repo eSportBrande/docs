@@ -16,7 +16,7 @@ jobs:
         id: find_markdown
         run: |
           mkdir output  # create output dir
-          echo "files=$(printf '"%s" ' *.md)" > $GITHUB_OUTPUT
+          echo "files=$(find . -type f -name "*.md" -not -path "./output/*" -not -path "*/\.*" | sort | tr '\n' ' ' | xargs)" >> $GITHUB_OUTPUT
 
       - uses: docker://pandoc/latex:3.5
         with:
