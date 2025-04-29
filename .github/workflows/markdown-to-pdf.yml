@@ -18,11 +18,16 @@ jobs:
           mkdir output  # create output dir
           echo "files=$(find . -type f -name "*.md" -not -path "./output/*" -not -path "*/\.*" | sort | tr '\n' ' ')" >> $GITHUB_OUTPUT
 
-      - uses: docker://pandoc/latex:3.5
-        with:
-              args: >-
-                ${{ steps.find_markdown.outputs.files }}
-                --output=output/
+      - name: Setup Pandoc
+        uses: docker://pandoc/latex:3.5
+
+      - name: Convert Markdown files to PDF
+        run: |
+            for file in ${{ steps.find_markdown.outputs.files }}; do
+            filename=$(basename "$file" .md)
+            echo "Converting $file to output/$filename.pdf"
+            docker run --rm -v ${{ github.workspace }}:/data pandoc/latex:3.5 "$file" -o "output/$filename.pdf"
+            done
 
       - name: Get current date
         id: date
