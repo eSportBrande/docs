@@ -16,11 +16,13 @@ jobs:
         id: find_markdown
         run: |
           mkdir output  # create output dir
-          echo "files=$(find . -type f -name "*.md" -not -path "./output/*" -not -path "*/\.*" | sort | tr '\n' ' ' | xargs)" >> $GITHUB_OUTPUT
+          echo "files=$(find . -type f -name "*.md" -not -path "./output/*" -not -path "*/\.*" | sort | tr '\n' ' ')" >> $GITHUB_OUTPUT
 
       - uses: docker://pandoc/latex:3.5
         with:
-            args: --output=output/result.pdf ${{ steps.find_markdown.outputs.files }}
+              args: >-
+                ${{ steps.find_markdown.outputs.files }}
+                --output=output/
 
       - name: Get current date
         id: date
