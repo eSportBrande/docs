@@ -1,5 +1,6 @@
 ---
 title: "Hjælp: Mine skins er blevet taget :("
+subtitle: "En guide til forældre, medlemmer og trænere der skal have hjælp efter man er blevet scammet i forbindelse med skins i Counter-Strike"
 author: [Nikolaj Petersen (eSport Brande)]
 date: "01-05-2025"
 keywords: [Counter-Strike, Skins, Steam, Scam]
@@ -12,14 +13,21 @@ titlepage-rule-height: 0
 
 
 # Hjælp: Mine skins er blevet taget :(
-Denne vejledning er til dig som har fået stjålet dine skins, og har brug for hjælp til at sikre din Steam-konto.
+Denne vejledning er til dig eller en du kender som har fået stjålet dine skins, og har brug for hjælp til at sikre din Steam-konto.
 
 ## Forord
-Denne vejledning er til dig som har fået stjålet dine skins, og har brug for hjælp til at sikre din steam-konto. Det er vigtigt at du følger denne vejledning nøje. Der er mange måder man kan blive scammet på, så det er vigtigt at du er opmærksom på at følge vejledningen for at have de bedste forudsætninger for at sikre din Steam-konto.
+Denne vejledning er til dig eller en du kender som har fået stjålet dine skins, og har brug for hjælp til at sikre din steam-konto. Det er vigtigt at du følger denne vejledning nøje. Der er mange måder man kan blive scammet på, så det er vigtigt at du er opmærksom på at følge vejledningen for at have de bedste forudsætninger for at sikre din Steam-konto.
+
+## For at komme i gang skal du bruge følgende:
+- Din Steam-kontos brugernavn og adgangskode.
+- Din telefon med det registrerede telefonnummer samt Steam-appen hvis Steam-guard har været aktiveret.
+- Adgang til E-Mail adressen som er tilknyttet din Steam-konto.
 
 ## Spørgsmål og svar
 ### Er skinsne væk for altid?
 Hvis først de er blevet tradet/sendt videre til en anden, så er de væk for altid. Steam kan af gode grunde ikke vide om det er en scam eller ej. Så de vil ikke sende dem tilbage, da der ikke er nogen beviser for at det er en scam.
+
+Alt afhægnig af hvor meget adgang de har til din konto, og hvor lidt du har adgang til den. Kan vi først senere i vejledningen finde ud af om alt er væk.
 
 ### Hvordan?
 Oftest er det en phishing-hjemmeside, hvor du har givet dit login og password, og siden ligner ofte Steams-hjemmeside. Det sker ofte i forbindelse med at man trader med en anden, hvor de så "snyder" dig til at sende det til dem, i stedet for den rigtige person.
@@ -51,6 +59,6 @@ Vi har lavet denne vejledning til vores medlemmer i eSport Brande. Vi håber at 
 
 Hvis i kan bruge Github så er i velkomne til at lave et Pull Request med ændringerne. Det er en god måde at lave dokumentation på, så andre kan se hvad der er ændret og hvorfor. Det er også en god måde at få feedback på, så vi kan lave en bedre vejledning til alle.
 
-Github: https://github.com/eSportBrande/docs
+[Githublink](https://github.com/eSportBrande/docs)
 
 Ellers kan i skrive til os på info@esport-brande.dk
