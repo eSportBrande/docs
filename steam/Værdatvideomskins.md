@@ -2,7 +2,7 @@
 title: "Værd at vide om skins"
 author: [Nikolaj Petersen (eSport Brande)]
 date: "01-05-2025"
-keywords: [Counter-Strike, Skins, Steam]
+keywords: [Counter-Strike, Skins, Steam, Scam]
 ...
 
 # CS Skins, værd at vide før du køber, sælger eller bytter
@@ -45,4 +45,10 @@ Skins i Counter-Strike er sjove og et fedt element i spillet. Ofte ved folk godt
 
 Der er mange svindlere på platformen, da der er mange penge i skins. Det er derfor vigtigt man tager sine forholdsregler for at sikre sig imod svindel. Bl.a. ved at have Steam-guard på sin telefon. Mange sider forsøger at ligne Steams-hjemmesiden. For at få dig til at skrive dit login og password, hvorefter de har adgang. Det er derfor vigtigt at være opmærksom på links og andet.
 
+# Spørgsmål?
 Har du flere spørgsmål? Så kom og få en snak i eSportsklubben. 
+
+# For eventuelle andre eSportsklubber
+Hej!
+
+Vi har lavet denne vejledning til vores medlemmer i eSport Brande. Vi håber at I kan bruge den i jeres klub også, og at vi måske sammen kan lave en vejledning til alle klubber i Danmark. Da skins fylder meget for mange unge. Skriv gerne til os hvis der er noget i vil have ændret eller tilføjet. Vi vil gerne have at det er en vejledning der kan bruges af alle, og ikke kun i eSport Brande.

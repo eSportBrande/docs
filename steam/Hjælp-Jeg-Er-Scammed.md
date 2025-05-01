@@ -1,3 +1,11 @@
+---
+title: "Hjælpd: Mine skins er blevet taget :("
+author: [Nikolaj Petersen (eSport Brande)]
+date: "01-05-2025"
+keywords: [Counter-Strike, Skins, Steam, Scam]
+...
+
+
 # Hjælp: Mine skins er blevet taget :(
 Denne vejledning er til dig som har fået stjålet dine skins, og har brug for hjælp til at sikre din Steam-konto.
 
@@ -27,3 +35,17 @@ Først og fremmest skal vi have sikret din steam-konto. Der er mange steps i den
 Nu kan vi begynde at arbejde på at tjekke om der er nogen der har adgang til din Steam-konto. Det kan være en god idé at tjekke din Steam-historik, og se om der er nogen der har tradet med dig. Det kan du gøre ved at gå ind på din Steam-konto her: [Steam Trade History](https://steamcommunity.com/my/tradeoffers/sent) og trykke på "View Trade History".
 
 Det er også her vi kan se om der er nogle der har sendt skinsne videre til en anden. I så fald kan man klikke på profilen og rapportere dem til Steam. Det er dog sjældent at de kan gøre noget ved det, da det er en åben platform og de ikke kan se hvad der er sket. Men jo flere der rapporterer dem, jo større sandsynlighed er der for at de bliver fjernet/låst.
+
+# Spørgsmål?
+Har du flere spørgsmål? Så kom og få en snak i eSports klubben.
+
+# For eventuelle andre eSportsklubber
+Hej!
+
+Vi har lavet denne vejledning til vores medlemmer i eSport Brande. Vi håber at I kan bruge den i jeres klub også, og at vi måske sammen kan lave en vejledning til alle klubber i Danmark. Da skins fylder meget for mange unge. Skriv gerne til os hvis der er noget i vil have ændret eller tilføjet. Vi vil gerne have at det er en vejledning der kan bruges af alle, og ikke kun i eSport Brande.
+
+Hvis i kan bruge Github så er i velkomne til at lave et Pull Request med ændringerne. Det er en god måde at lave dokumentation på, så andre kan se hvad der er ændret og hvorfor. Det er også en god måde at få feedback på, så vi kan lave en bedre vejledning til alle.
+
+Github: https://github.com/eSportBrande/docs
+
+Ellers kan i skrive til os på info@esport-brande.dk
