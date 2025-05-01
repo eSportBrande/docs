@@ -59,6 +59,6 @@ Vi har lavet denne vejledning til vores medlemmer i eSport Brande. Vi håber at 
 
 Hvis i kan bruge Github så er i velkomne til at lave et Pull Request med ændringerne. Det er en god måde at lave dokumentation på, så andre kan se hvad der er ændret og hvorfor. Det er også en god måde at få feedback på, så vi kan lave en bedre vejledning til alle.
 
-[Githublink](https://github.com/eSportBrande/docs)
+[Github link](https://github.com/eSportBrande/docs)
 
 Ellers kan i skrive til os på info@esport-brande.dk
