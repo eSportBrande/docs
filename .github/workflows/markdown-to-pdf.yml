@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main # or your main branch
+    paths-ignore:
+      - '**/README.md'
+      - 'README.md'
 
 jobs:
   build:
@@ -26,7 +29,7 @@ jobs:
             for file in ${{ steps.find_markdown.outputs.files }}; do
             filename=$(basename "$file" .md)
             echo "Converting $file to output/$filename.pdf"
-            docker run --rm -v ${{ github.workspace }}:/data pandoc/extra:latest "$file" -o "output/$filename.pdf" --template eisvogel --listings
+            docker run --rm -v ${{ github.workspace }}:/data pandoc/extra:latest "$file" -o "output/$filename.pdf" --template eisvogel --listings --linkcolor blue
             done
 
       - name: Get current date
