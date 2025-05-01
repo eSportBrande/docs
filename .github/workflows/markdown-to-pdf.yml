@@ -53,6 +53,7 @@ jobs:
         run: |
             for pdf in output/*.pdf; do
             filename=$(basename "$pdf")
+            echo "Uploading $filename to release-${{ steps.date.outputs.date }}"
             gh release upload release-${{ steps.date.outputs.date }} "$pdf" --clobber
             done
         env:
