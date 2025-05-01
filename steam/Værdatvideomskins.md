@@ -4,8 +4,11 @@ author: [Nikolaj Petersen (eSport Brande)]
 date: "01-05-2025"
 keywords: [Counter-Strike, Skins, Steam, Scam]
 titlepage: true
-titlepage-color: "26a326"
+titlepage-background: "background/background.pdf"
 titlepage-text-color: "ffffff"
+titlepage-rule-color: "360049"
+titlepage-rule-height: 0
+titlepage-background: "background.pdf"
 ...
 
 # CS Skins, værd at vide før du køber, sælger eller bytter
