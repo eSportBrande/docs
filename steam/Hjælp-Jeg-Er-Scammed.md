@@ -8,7 +8,6 @@ titlepage-background: "background/background.pdf"
 titlepage-text-color: "ffffff"
 titlepage-rule-color: "360049"
 titlepage-rule-height: 0
-titlepage-background: "background.pdf"
 ...
 
 
