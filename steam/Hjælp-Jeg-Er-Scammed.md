@@ -3,6 +3,9 @@ title: "Hjælpd: Mine skins er blevet taget :("
 author: [Nikolaj Petersen (eSport Brande)]
 date: "01-05-2025"
 keywords: [Counter-Strike, Skins, Steam, Scam]
+titlepage: true
+titlepage-color: "26a326"
+titlepage-text-color: "ffffff"
 ...
 
 
