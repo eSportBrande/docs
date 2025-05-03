@@ -16,7 +16,7 @@ toc: true
 # CS Skins, værd at vide før du køber, sælger eller bytter
 Du eller dit barn har en Steam-konto og vil nu have skins i Couter-Strike. Du har sikkert hørt om skins og hvordan de kan købes og sælges.
 
-Nedenstående gælder kun Counter-Strike og ikke andre spil. Det er vigtigt at være opmærksom på, at skins i Counter-Strike ikke rigtig kan sammenlignes med hvordan de fungere i andre spil. Særligt i Counter-Strike er det muligt at sende/modtage skins fra andre, hvor mange andre spil låses skins til ens konto. Der er derfor en større risiko forbundet med skins i Counter-Strike end i andre spil.
+Nedenstående gælder **kun** Counter-Strike og ikke andre spil. Det er vigtigt at være opmærksom på, at skins i Counter-Strike ikke rigtig kan sammenlignes med hvordan de fungere i andre spil. Særligt i Counter-Strike er det muligt at sende/modtage skins fra andre, hvor mange andre spil låses skins til ens konto. Der er derfor en større risiko forbundet med skins i Counter-Strike end i andre spil.
 
 ## Hvad er skins?
 Skins er kosmetiske genstande i Counter-Strike, der ændrer udseendet af våben og karakterer i spillet. De påvirker ikke selve spillet, men kan gøre det mere personligt og sjovt at spille. Skins kan købes, sælges og byttes mellem spillere, hvilket gør dem til en del af et stort økonomisk marked.
@@ -39,7 +39,7 @@ Hvis man først har overført sine skins til en anden, så får man dem ikke til
 
 Der findes mange former for svindel, hvor du kan miste dine skins. Det kan være ved at du bliver bedt om at give dit login og password, eller ved at du bliver bedt om at give din Steam Guard-kode. Det er vigtigt at være opmærksom på, at Steam aldrig vil bede dig om dit login og password, eller din Steam Guard-kode. Hvis du modtager en besked fra Steam, der beder om dette, så er det en svindler.
 
-Nogle kendte scams er:
+**Nogle kendte scams er:**
 - Nogle vil gerne have du joiner deres hold, da de mangler en spiller. Du skal logge på en hjemmeside for at tilmelde dig holdet. Ved at logge på denne hjemmeside, giver du dem dit login og password og adgang til dine skins.
 - Nogle vil gerne lave en handel med dig, og vil gerne have du logger på en hjemmeside for at lave handlen. Ved at logge på denne hjemmeside, giver du dem dit login og password og adgang til dine skins.
 
@@ -65,4 +65,4 @@ Hvis i kan bruge Github så er i velkomne til at lave et Pull Request med ændri
 
 [Github link](https://github.com/eSportBrande/docs)
 
-Ellers kan i skrive til os på info@esport-brande.dk
+Ellers må i meget gerne skrive til os på **info@esport-brande.dk**
