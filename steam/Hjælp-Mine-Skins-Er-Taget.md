@@ -10,6 +10,7 @@ titlepage-text-color: "ffffff"
 titlepage-rule-color: "360049"
 titlepage-rule-height: 0
 toc-own-page: true
+toc: true
 ...
 # Hjælp: Mine skins er blevet taget :(
 Denne vejledning er til dig eller en du kender som har fået stjålet dine skins, og har brug for hjælp til at sikre din Steam-konto.
