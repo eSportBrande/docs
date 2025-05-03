@@ -11,6 +11,7 @@ titlepage-rule-color: "360049"
 titlepage-rule-height: 0
 toc-own-page: true
 toc: true
+toc-title: "Indholdsfortegnelse"
 ...
 
 # CS Skins, værd at vide før du køber, sælger eller bytter

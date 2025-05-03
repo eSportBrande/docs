@@ -11,6 +11,7 @@ titlepage-rule-color: "360049"
 titlepage-rule-height: 0
 toc-own-page: true
 toc: true
+toc-title: "Indholdsfortegnelse"
 ...
 # Forord
 Denne vejledning er til dig eller en du kender som har fået stjålet dine skins, og har brug for hjælp til at sikre din steam-konto. Det er vigtigt at du følger denne vejledning nøje. Der er mange måder man kan blive scammet på, så det er vigtigt at du er opmærksom på at følge vejledningen for at have de bedste forudsætninger for at sikre din Steam-konto.
