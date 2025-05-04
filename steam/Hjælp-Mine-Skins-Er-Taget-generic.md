@@ -65,7 +65,9 @@ Har du flere spørgsmål? Så kom og få en snak i eSports klubben.
 # For eventuelle andre eSportsklubber
 Hej!
 
-Vi har lavet denne vejledning til vores medlemmer i eSport Brande. Vi håber at I kan bruge den i jeres klub også, og at vi måske sammen kan lave en vejledning til alle klubber i Danmark. Da skins fylder meget for mange unge. Skriv gerne til os hvis der er noget i vil have ændret eller tilføjet. Vi vil gerne have at det er en vejledning der kan bruges af alle, og ikke kun i eSport Brande.
+Vi har lavet denne vejledning til vores medlemmer i eSport Brande. Vi håber at I kan bruge den i jeres klub også, og at vi måske sammen kan lave en vejledning som kan benyttes af alle klubber i Danmark. Da skins fylder meget for mange unge. Skriv gerne til os hvis der er noget i vil have ændret eller tilføjet. Vi vil gerne have at det er en vejledning der kan bruges af alle, og ikke kun i eSport Brande.
+
+Der findes en udgave af denne vejledning som er brandet i eSport Brande farver, men også en som er brandet uden. Alt vores dokumentation kan findes her: [Download](https://github.com/eSportBrande/docs/releases/latest)
 
 Hvis i kan bruge Github så er i velkomne til at lave et Pull Request med ændringerne. Det er en god måde at lave dokumentation på, så andre kan se hvad der er ændret og hvorfor. Det er også en god måde at få feedback på, så vi kan lave en bedre vejledning til alle.
 
