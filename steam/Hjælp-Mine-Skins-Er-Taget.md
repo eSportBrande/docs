@@ -25,13 +25,25 @@ Denne vejledning er til dig eller en du kender som har fået stjålet dine skins
 ## Sikring af Steam-konto
 Først og fremmest skal vi have sikret din steam-konto. Der er mange steps i denne proces, og det er vigtigt at du følger dem nøje. Det er vigtigt at du har en god adgangskode, og at du har Steam Guard aktiveret på din telefon. Det er også vigtigt at du ikke bruger samme adgangskode til andre hjemmesider, da det kan være en sikkerhedsrisiko.
 
-1. Først og frememst skal vi have skiftet koden på din steam-konto. Det gør du ved at gå ind på din Steam-konto her: [Account Settings](https://store.steampowered.com/account/) og trykke på **"Change my Password"**.
-3. Du skal nu indtaste din nuværende adgangskode, og derefter din nye adgangskode. Det er vigtigt at du vælger en god adgangskode, som ikke er let at gætte. Som minimum skal det ikke være en du har brugt til steam før, i hvert fald :)
-5. Når du har skiftet din adgangskode, så skal du åbne din Steam-app på telefonen og sikre du kan logge ind der, samt at Steam-guard stadig er aktiv.
-6. Det kan være en god idé at skifte dit password til din EMail også. Det er sjældent den vej de kommer ind, men for en sikkerheds skyld vil vi anbefale det.
-7. Herefter skal vi have logget ud på alle enheder. Det gør du ved at trykke herind [Manage Steam Guard](https://store.steampowered.com/twofactor/manage) og trykke **Deauthorize all devices**. Det er vigtigt at du gør dette, da det sikrer at ingen kan logge ind på din konto uden din Steam Guard-kode. Du vil dog også blive logget ud på din egen enhed, og skal derfor logge ind igen
-8. Herefter skal vi sikre os at du ikke har en Steam API nøgle aktiv. Det gør du ved at trykke ind på følgende link: [Steam API Key](https://steamcommunity.com/dev/apikey) og trykke på **"Revoke my Steam API Key"**.
+1. Først og frememst skal vi have skiftet koden på din steam-konto. Det gør du ved at gå ind på din Steam-konto her: [Account Settings/Konto indstillinger](https://store.steampowered.com/account/) og trykke på **"Change my Password"** / **Skift min adgangskode**.
+
+![Change Password](./skins-taget-imgs/changepassword.png)
+
+2. Du skal nu indtaste din nuværende adgangskode, og derefter din nye adgangskode. Det er vigtigt at du vælger en god adgangskode, som ikke er let at gætte. Som minimum skal det ikke være en du har brugt til steam før, i hvert fald :)
+3. Når du har skiftet din adgangskode, så skal du åbne din Steam-app på telefonen og sikre du kan logge ind der, samt at Steam-guard stadig er aktiv.
+4. Det kan være en god idé at skifte dit password til din EMail også. Det er sjældent den vej de kommer ind, men for en sikkerheds skyld vil vi anbefale det.
+5. Herefter skal vi have logget ud på alle enheder. Det gør du ved at trykke herind [Manage Steam Guard](https://store.steampowered.com/twofactor/manage) og trykke **Deauthorize all devices** / **Fjern godkendelse af alle enheder**. Det er vigtigt at du gør dette, da det sikrer at ingen kan logge ind på din konto uden din Steam Guard-kode. Du vil dog også blive logget ud på din egen enhed, og skal derfor logge ind igen.
+
+![Deauthorize all devices](./skins-taget-imgs/deauthorize.png)
+
+6. Herefter skal vi sikre os at du ikke har en Steam API nøgle aktiv. Det gør du ved at trykke ind på følgende link: [Steam API Key](https://steamcommunity.com/dev/apikey) og trykke på **"Revoke my Steam API Key"** / **Tilbagekald min Steam Web API-nøgle**.
    1. Hvis der er en **register** knap, så er det fordi du ikke har en aktiv Steam API nøgle, og du kan derfor springe dette step over.
+
+![Revoke my Steam API Key](./skins-taget-imgs/api-revoke.png)
+
+Det skal gerne se sådan her ud, når du er færdig:
+
+![Create API Key](./skins-taget-imgs/api-create.png)
 
 ## Hvad nu?
 Nu kan vi begynde at arbejde på at tjekke om der er nogen der har adgang til din Steam-konto. Det kan være en god idé at tjekke din Steam-historik, og se om der er nogen der har tradet med dig. Det kan du gøre ved at gå ind på din Steam-konto her: [Steam Trade History](https://steamcommunity.com/my/tradeoffers/sent) og trykke på **"View Trade History"**.

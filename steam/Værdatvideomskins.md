@@ -19,6 +19,8 @@ Du eller dit barn har en Steam-konto og vil nu have skins i Couter-Strike. Du ha
 
 Nedenstående gælder **kun** Counter-Strike og ikke andre spil. Det er vigtigt at være opmærksom på, at skins i Counter-Strike ikke rigtig kan sammenlignes med hvordan de fungere i andre spil. Særligt i Counter-Strike er det muligt at sende/modtage skins fra andre, hvor mange andre spil låses skins til ens konto. Der er derfor en større risiko forbundet med skins i Counter-Strike end i andre spil.
 
+Det er særligt knive og handsker der er dyre i spillet, men andre skins kan også være utrolig dyre.
+
 ## Hvad er skins?
 Skins er kosmetiske genstande i Counter-Strike, der ændrer udseendet af våben og karakterer i spillet. De påvirker ikke selve spillet, men kan gøre det mere personligt og sjovt at spille. Skins kan købes, sælges og byttes mellem spillere, hvilket gør dem til en del af et stort økonomisk marked.
 
