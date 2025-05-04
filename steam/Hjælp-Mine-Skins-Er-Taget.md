@@ -27,23 +27,23 @@ Først og fremmest skal vi have sikret din steam-konto. Der er mange steps i den
 
 1. Først og frememst skal vi have skiftet koden på din steam-konto. Det gør du ved at gå ind på din Steam-konto her: [Account Settings/Konto indstillinger](https://store.steampowered.com/account/) og trykke på **"Change my Password"** / **Skift min adgangskode**.
 
-![Change Password](./skins-taget-imgs/changepassword.png "Change Password")
+![Change Password](./steam/skins-taget-imgs/changepassword.png "Change Password")
 
 2. Du skal nu indtaste din nuværende adgangskode, og derefter din nye adgangskode. Det er vigtigt at du vælger en god adgangskode, som ikke er let at gætte. Som minimum skal det ikke være en du har brugt til steam før, i hvert fald :)
 3. Når du har skiftet din adgangskode, så skal du åbne din Steam-app på telefonen og sikre du kan logge ind der, samt at Steam-guard stadig er aktiv.
 4. Det kan være en god idé at skifte dit password til din EMail også. Det er sjældent den vej de kommer ind, men for en sikkerheds skyld vil vi anbefale det.
 5. Herefter skal vi have logget ud på alle enheder. Det gør du ved at trykke herind [Manage Steam Guard](https://store.steampowered.com/twofactor/manage) og trykke **Deauthorize all devices** / **Fjern godkendelse af alle enheder**. Det er vigtigt at du gør dette, da det sikrer at ingen kan logge ind på din konto uden din Steam Guard-kode. Du vil dog også blive logget ud på din egen enhed, og skal derfor logge ind igen.
 
-![Deauthorize all devices](./skins-taget-imgs/deauthorize.png "Deauthorize all devices")
+![Deauthorize all devices](./steam/skins-taget-imgs/deauthorize.png "Deauthorize all devices")
 
 6. Herefter skal vi sikre os at du ikke har en Steam API nøgle aktiv. Det gør du ved at trykke ind på følgende link: [Steam API Key](https://steamcommunity.com/dev/apikey) og trykke på **"Revoke my Steam API Key"** / **Tilbagekald min Steam Web API-nøgle**.
    1. Hvis der er en **register** knap, så er det fordi du ikke har en aktiv Steam API nøgle, og du kan derfor springe dette step over.
 
-![Revoke my Steam API Key](./skins-taget-imgs/api-revoke.png "Revoke my Steam API Key")
+![Revoke my Steam API Key](./steam/skins-taget-imgs/api-revoke.png "Revoke my Steam API Key")
 
 Det skal gerne se sådan her ud, når du er færdig:
 
-![Create API Key](./skins-taget-imgs/api-create.png "Create API Key")
+![Create API Key](./steam/skins-taget-imgs/api-create.png "Create API Key")
 
 ## Hvad nu?
 Nu kan vi begynde at arbejde på at tjekke om der er nogen der har adgang til din Steam-konto. Det kan være en god idé at tjekke din Steam-historik, og se om der er nogen der har tradet med dig. Det kan du gøre ved at gå ind på din Steam-konto her: [Steam Trade History](https://steamcommunity.com/my/tradeoffers/sent) og trykke på **"View Trade History"**.
