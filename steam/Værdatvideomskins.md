@@ -42,7 +42,8 @@ Hvis man først har overført sine skins til en anden, så får man dem ikke til
 
 Der findes mange former for svindel, hvor du kan miste dine skins. Det kan være ved at du bliver bedt om at give dit login og password, eller ved at du bliver bedt om at give din Steam Guard-kode. Det er vigtigt at være opmærksom på, at Steam aldrig vil bede dig om dit login og password, eller din Steam Guard-kode. Hvis du modtager en besked fra Steam, der beder om dette, så er det en svindler.
 
-**Nogle kendte scams er:**
+**Nogle kendte scams er**
+
 - Nogle vil gerne have du joiner deres hold, da de mangler en spiller. Du skal logge på en hjemmeside for at tilmelde dig holdet. Ved at logge på denne hjemmeside, giver du dem dit login og password og adgang til dine skins.
 - Nogle vil gerne lave en handel med dig, og vil gerne have du logger på en hjemmeside for at lave handlen. Ved at logge på denne hjemmeside, giver du dem dit login og password og adgang til dine skins.
 
