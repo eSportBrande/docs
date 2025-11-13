@@ -60,12 +60,16 @@ Som noget nyt (Juli 2025) har Steam/Valve gjort det muligt at reverse trades ind
 
 Hvis du har opdaget at dine skins er blevet tradet væk, så kan du reverse traden/tradesne. Det kan du gøre ved at gå ind på din Steam Trade History her: [Steam Trade History](https://steamcommunity.com/my/tradeoffers/sent) og trykke på **"View Trade History"**.
 
-Herefter er der en Gul bjælke i toppen **"You have a recent trade with protected items. Don't recognize a trade? Click here to recover your account and eligible items." / "Du har en nylig byttehandel med beskyttede genstande. Er der en byttehandel, du ikke kan genkende? Klik her for at gendanne din konto og kvalificerede genstande."** Tryk på den, og følg vejledningen. Det er vigtigt at du gør dette så hurtigt som muligt, da der er en tidsbegrænsning på 7 dage fra traden har fundet sted.
+Herefter er der en Gul bjælke i toppen med teksten: **"You have a recent trade with protected items. Don't recognize a trade? Click here to recover your account and eligible items."** eller på Dansk: **"Du har en nylig byttehandel med beskyttede genstande. Er der en byttehandel, du ikke kan genkende? Klik her for at gendanne din konto og kvalificerede genstande."**
 
-Tryk på "Click to recover" eller "Klik her for at gendanne"
+Tryk på den, og følg vejledningen. Det er vigtigt at du gør dette så hurtigt som muligt, da der er en tidsbegrænsning på 7 dage fra traden har fundet sted.
+
+1.Tryk på "Click to recover" eller "Klik her for at gendanne"
+
 ![Click to Recover / Klik her for at gendanne (Steam Trade History)](./steam/skins-taget-imgs/click-to-recover.png "Click to Recover / Klik her for at gendanne (Steam Trade History)")
 
-Følg vejledningen på skærmen (se billede nedenfor)
+2. Følg vejledningen på skærmen (se billede nedenfor). Bemærk og se hvad du faktisk kan reverse. Du kan kun reverse det hele, og ikke "vælge" enkelte skins fra en trade.
+
 ![Her kan du se muligheden for at reverse trades, og hvad du kan reverse](./steam/skins-taget-imgs/reverse.png "Her kan du se muligheden for at reverse trades, og hvad du kan reverse")
 
 # Spørgsmål og svar
