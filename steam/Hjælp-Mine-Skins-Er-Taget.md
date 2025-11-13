@@ -2,7 +2,7 @@
 title: "Hjælp: Mine skins er blevet taget :("
 subtitle: "En guide til forældre, medlemmer og trænere der skal have hjælp efter man er blevet scammet i forbindelse med skins i Counter-Strike"
 author: [Nikolaj Petersen (eSport Brande)]
-date: "01-05-2025"
+date: "01-05-2025 (Opdateret d. 13-11-2025)"
 keywords: [Counter-Strike, Skins, Steam, Scam]
 titlepage: true
 titlepage-background: "background/eSport-Brande-Forside.pdf"
