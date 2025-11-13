@@ -13,6 +13,7 @@ toc-own-page: true
 toc: true
 toc-title: "Indholdsfortegnelse"
 ...
+
 # Forord
 Denne vejledning er til dig eller en du kender som har fået stjålet dine skins, og har brug for hjælp til at sikre din steam-konto. Det er vigtigt at du følger denne vejledning nøje. Der er mange måder man kan blive scammet på, så det er vigtigt at du er opmærksom på at følge vejledningen for at have de bedste forudsætninger for at sikre din Steam-konto.
 
@@ -60,6 +61,12 @@ Som noget nyt (Juli 2025) har Steam/Valve gjort det muligt at reverse trades ind
 Hvis du har opdaget at dine skins er blevet tradet væk, så kan du reverse traden/tradesne. Det kan du gøre ved at gå ind på din Steam Trade History her: [Steam Trade History](https://steamcommunity.com/my/tradeoffers/sent) og trykke på **"View Trade History"**.
 
 Herefter er der en Gul bjælke i toppen **"You have a recent trade with protected items. Don't recognize a trade? Click here to recover your account and eligible items." / "Du har en nylig byttehandel med beskyttede genstande. Er der en byttehandel, du ikke kan genkende? Klik her for at gendanne din konto og kvalificerede genstande."** Tryk på den, og følg vejledningen. Det er vigtigt at du gør dette så hurtigt som muligt, da der er en tidsbegrænsning på 7 dage fra traden har fundet sted.
+
+1. Tryk på "Click to recover" eller "Klik her for at gendanne"
+![Click to Recover / Klik her for at gendanne (Steam Trade History)](./steam/skins-taget-imgs/click-to-recover.png "Click to Recover / Klik her for at gendanne (Steam Trade History)")
+
+2. Følg vejledningen på skærmen (se billede nedenfor)
+![Her kan du se muligheden for at reverse trades, og hvad du kan reverse](./steam/skins-taget-imgs/reverse.png "Her kan du se muligheden for at reverse trades, og hvad du kan reverse")
 
 # Spørgsmål og svar
 ## Hvordan har de fået adgang?

@@ -62,6 +62,14 @@ Hvis du har opdaget at dine skins er blevet tradet væk, så kan du reverse trad
 
 Herefter er der en Gul bjælke i toppen **"You have a recent trade with protected items. Don't recognize a trade? Click here to recover your account and eligible items." / "Du har en nylig byttehandel med beskyttede genstande. Er der en byttehandel, du ikke kan genkende? Klik her for at gendanne din konto og kvalificerede genstande."** Tryk på den, og følg vejledningen. Det er vigtigt at du gør dette så hurtigt som muligt, da der er en tidsbegrænsning på 7 dage fra traden har fundet sted.
 
+1. Tryk på "Click to recover" eller "Klik her for at gendanne"
+![Click to Recover / Klik her for at gendanne (Steam Trade History)](./steam/skins-taget-imgs/click-to-recover.png "Click to Recover / Klik her for at gendanne (Steam Trade History)")
+
+2. Følg vejledningen på skærmen (se billede nedenfor)
+![Her kan du se muligheden for at reverse trades, og hvad du kan reverse](./steam/skins-taget-imgs/reverse.png "Her kan du se muligheden for at reverse trades, og hvad du kan reverse")
+
+
+
 # Spørgsmål og svar
 ## Hvordan har de fået adgang?
 Oftest er det en phishing-hjemmeside, hvor du har givet dit login og password, og siden ligner ofte Steams-hjemmeside. Det sker ofte i forbindelse med at man trader med en anden, hvor de så "snyder" dig til at sende det til dem, i stedet for den rigtige person.
