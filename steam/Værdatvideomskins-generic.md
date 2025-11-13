@@ -19,10 +19,10 @@ Du eller dit barn har en Steam-konto og vil nu have skins i Couter-Strike. Du ha
 
 Nedenstående gælder **kun** Counter-Strike og ikke andre spil. Det er vigtigt at være opmærksom på, at skins i Counter-Strike ikke rigtig kan sammenlignes med hvordan de fungere i andre spil. Særligt i Counter-Strike er det muligt at sende/modtage skins fra andre, hvor mange andre spil låses skins til ens konto. Der er derfor en større risiko forbundet med skins i Counter-Strike end i andre spil.
 
-Det er særligt knive og handsker der er dyre i spillet, men andre skins kan også være utrolig dyre.
+Det er særligt knive og handsker der er dyre i spillet, men andre skins kan også være dyre.
 
 ## Hvad er skins?
-Skins er kosmetiske genstande i Counter-Strike, der ændrer udseendet af våben og karakterer i spillet. De påvirker ikke selve spillet, men kan gøre det mere personligt og sjovt at spille. Skins kan købes, sælges og byttes mellem spillere, hvilket gør dem til en del af et stort økonomisk marked.
+Skins er kosmetiske genstande i Counter-Strike, der ændrer udseendet af våben og karakterer i spillet. De påvirker ikke selve spillet, men kan gøre det mere personligt og sjovt at spille. Skins kan købes, sælges og byttes mellem spillere, hvilket gør dem til en del af et stort økonomisk marked. 
 
 Der er samtidig en hvis status i at have skins, da de kan være dyre og sjældne. Nogle skins kan koste flere tusinde kroner, mens andre kan købes for få kroner. Det er derfor vigtigt at være opmærksom på, at ikke alle skins er lige meget værd.
 
@@ -38,9 +38,9 @@ Steam er en åben platform hvor profiler er offentlige som udgangspunkt. Det bet
 
 Det ses ofte at man får mange venneanmodninger, og nogle der gerne vil chatte med en hvis robotter/bots og lignende kan se at du har skins. Det er vigtigt at være opmærksom på, at disse personer ofte er svindlere, der forsøger at narre dig til at give dem dine skins.
 
-Hvis man først har overført sine skins til en anden, så får man dem ikke tilbage. Også selvom man har været hacket eller lignende. Det er derfor vigtigt hvis man har skins for mange penge, at man sørger for at have Steam-guard aktiveret på sin telefon. For så skal man godkende overførelsen af skinsne til en anden på telefonen, lidt ligesom man kender det fra MitID og ens netbank.
+Førhen var det sådan at hvis man først havde overført sine skins til en anden, så kunne man ikke få dem igen. De var væk, og man kan ikke skrive eller snakke med nogle, selvom det fordi man er blevet svindlet eller hacket. Siden Juli 2025 har Steam dog lavet en funktion hvor man kan reverse trades inden for 7 dage. Det betyder at hvis man opdager at ens skins er blevet tradet væk, så kan man få dem tilbage igen inden for 7 dage. 
 
-Der findes mange former for svindel, hvor du kan miste dine skins. Det kan være ved at du bliver bedt om at give dit login og password, eller ved at du bliver bedt om at give din Steam Guard-kode. Det er vigtigt at være opmærksom på, at Steam aldrig vil bede dig om dit login og password, eller din Steam Guard-kode. Hvis du modtager en besked fra Steam, der beder om dette, så er det en svindler.
+Der findes mange former for svindel, hvor du kan miste dine skins, men siden denne opdatering er der altid en vej tilbage. Det kan være ved at du bliver bedt om at give dit login og password, eller ved at du bliver bedt om at give din Steam Guard-kode. Det er vigtigt at være opmærksom på, at Steam aldrig vil bede dig om dit login og password, eller din Steam Guard-kode. Hvis du modtager en besked fra Steam, der beder om dette, så er det en svindler.
 
 **Nogle kendte scams er**
 
@@ -51,6 +51,7 @@ Der findes mange former for svindel, hvor du kan miste dine skins. Det kan være
 - Steam Guard: En ekstra sikkerhedsfunktion, der kræver en bekræftelseskode fra din mobiltelefon, når du logger ind på en ny enhed eller foretager ændringer på din konto. Alle trades kræver at man trykker godkend på sin telefon. Så det er ikke nok at de har adgang til ens konto til en start, de skal også have adgang til ens telefon. Hvis de får adgang til ens konto, så kan de ikke bare tage skinsne uden telefonen, og hvis de laver ændringer til Steam-guard låses ens skins i 15 dage som en sikkerhedsmekanisme.
 - Trade-lock: Hvis du lige har modtaget eller sendt et skin til en anden spiller, vil de være låst i 7 dage, før du kan handle dem igen. Det er en sikkerhedsmekanisme for at undgå svindel og tyveri af skins.
 - Markedslås: Hvis du lige har købt et skin, vil det være låst i 7 dage, før du kan sælge det på Steam-markedet. Det er en sikkerhedsmekanisme for at undgå svindel og tyveri af skins.
+- Reverse af en trade: Hvis du opdager at dine skins er blevet tradet væk, kan du få dem tilbage igen inden for 7 dage. Men du bliver låst ude fra at trade i 30 dage efter et reverse.
 
 # Konklusion
 Skins i Counter-Strike er sjove og et fedt element i spillet. Ofte ved folk godt at ens kniv er sjælden og lignende. Så der er en status i at have skins også. 
